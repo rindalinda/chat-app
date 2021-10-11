@@ -97,12 +97,12 @@
 .user-name {
   font-size: 16px;
   color: #434a54;
-  margin-right: 10px;
 }
 
-.time {
+.message-date {
   color: #999;
   font-size: 12px;
+  margin-left: 10px;
 }
 .chat-bottom {
   background-color: #dddddd;
